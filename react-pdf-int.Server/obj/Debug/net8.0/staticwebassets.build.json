@@ -1,0 +1,23 @@
+{
+  "Version": 1,
+  "Hash": "MQLjMDyckAkjsxU+K2pPE6o8sbT8XrrRlVLE1BeZrA0=",
+  "Source": "react-pdf-int.Server",
+  "BasePath": "_content/react-pdf-int.Server",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [
+    {
+      "Identity": "C:\\Users\\Chaos\\Documents\\Work Projects\\POC\\react-pdf-int\\react-pdf-int.client\\react-pdf-int.client.esproj",
+      "Version": 2,
+      "Source": "react-pdf-int.client",
+      "GetPublishAssetsTargets": "GetCurrentProjectPublishStaticWebAssetItems",
+      "AdditionalPublishProperties": "Configuration=Debug;Platform=AnyCPU",
+      "AdditionalPublishPropertiesToRemove": "WebPublishProfileFile;TargetFramework;RuntimeIdentifier;SelfContained",
+      "GetBuildAssetsTargets": "GetCurrentProjectBuildStaticWebAssetItems",
+      "AdditionalBuildProperties": "Configuration=Debug;Platform=AnyCPU",
+      "AdditionalBuildPropertiesToRemove": "WebPublishProfileFile;TargetFramework;RuntimeIdentifier;SelfContained"
+    }
+  ],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\react-pdf-int.Server.props" />
+</Project>

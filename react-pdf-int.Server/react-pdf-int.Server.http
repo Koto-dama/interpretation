@@ -1,0 +1,5 @@
+@react_pdf_int.Server_HostAddress = http://localhost:5072
+
+GET {{react_pdf_int.Server_HostAddress}}/api/documentupload/
+
+###

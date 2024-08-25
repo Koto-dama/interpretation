@@ -1,0 +1,10 @@
+{
+"SpaProxyServer": {
+"ServerUrl": "https://localhost:5173",
+"RedirectUrl": "",
+"LaunchCommand": "npm run dev",
+"WorkingDirectory": "C:\\Users\\Chaos\\Documents\\Work Projects\\POC\\react-pdf-int\\react-pdf-int.Server\\..\\react-pdf-int.client",
+"MaxTimeoutInSeconds": "120",
+"KeepRunning": "false"
+}
+}

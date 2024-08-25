@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\buildMultiTargeting\react-pdf-int.Server.props" />
+</Project>

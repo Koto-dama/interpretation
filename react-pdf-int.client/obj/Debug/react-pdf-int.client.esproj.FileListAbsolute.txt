@@ -1,0 +1,1 @@
+C:\Users\Chaos\Documents\Work Projects\POC\react-pdf-int\react-pdf-int.client\obj\Debug\react-pdf-int.client.esproj.CoreCompileInputs.cache
